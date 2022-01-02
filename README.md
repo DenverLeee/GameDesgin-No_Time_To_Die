@@ -83,5 +83,3 @@ The `Scripts` directory holds all the scripts and every `.cs` file should be put
 
 The Unity C# coding convention and and style examples can be found in https://github.com/raywenderlich/c-sharp-style-guide
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DenverLeee&repo=
-GameDesgin-No_Time_To_Die&theme=default_repocard&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
